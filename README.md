@@ -1,6 +1,20 @@
 ### Hi there, I'm Sultan 👋 (profitjo)
 
-💻 Backend Developer | 🎓 Economics Student | 🛠️ Passionate about scalable systems
+###
+
+<table>
+  <tr>
+    <td><img width="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Profile Image" /></td>
+    <td>
+      <h2> 💻 Backend Developer </h2>
+      <h2> 🎓 Economics Student </h2>
+      <h2> 🛠️ Passionate about scalable systems </h2>
+      <h2> 🤝 Peer in School 21 </h2>
+    </td>
+  </tr>
+</table>
+
+###
 
 ---
 
