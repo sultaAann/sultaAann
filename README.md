@@ -57,6 +57,14 @@
 - Located at the **Tashkent campus**, open 24/7 with collaborative zones, whiteboards, chill areas, and even games 
 - As one peer put it: *“each of us is both teacher and student.”* — reflecting the school’s collaborative ethos
 
+
+#### 🎓 MJC School (Java Education Initiative)
+
+- Free, online Java program built by EPAM engineers — focused on **discipline, craftsmanship, and community**  
+- Includes advanced **production-level mentoring** during Stage 4 of the course  
+- Covers Java fundamentals, backend and web service development — aimed at preparing for **Junior Software Engineer** positions  
+- Fully remote with **no entry barriers** — just basic programming skills needed  
+
 ---
 
 #### 📈 GitHub Stats
