@@ -7,22 +7,24 @@
     <td>
       <img width="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Profile Image" />
     </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-      <h2>💻 Backend Developer</h2>
-      <h2>🎓 Economics Student</h2>
-      <h2>🛠️ Passionate about scalable systems</h2>
-      <h2>🤝 Peer at School 21</h2>
+    <td align="left" valign="middle">
+      <h3>💻 Backend Developer</h3>
+      <h3>🎓 Economics Student</h3>
+      <h3>🛠️ Passionate about scalable systems</h3>
+      <h3>🤝 Peer at School 21</h3>
     </td>
-    <td style="padding-left: 40px; vertical-align: middle;">
+    <td align="center" valign="middle">
       <h2>🎧 Recently Played</h2>
-      <div align="center">
-        <a href="https://open.spotify.com/user/31mns3y67jq73bp3gyc77x4xvrji">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mns3y67jq73bp3gyc77x4xvrji&count=3" alt="Spotify recently played" />
-        </a>
-      </div>
+      <a href="https://open.spotify.com/user/31mns3y67jq73bp3gyc77x4xvrji">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mns3y67jq73bp3gyc77x4xvrji&count=3" alt="Spotify recently played" />
+      </a>
+    </td>
+    <td valign="middle">
+      <img width="200" src="https://raw.githubusercontent.com/gist/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/e3e02536fd8e39e82b14e68fa953bac0dbed8a59/dancing-gopher.gif" alt="Dancing Gopher" />
     </td>
   </tr>
 </table>
+
 
 ###
 
