@@ -4,12 +4,22 @@
 
 <table>
   <tr>
-    <td><img width="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Profile Image" /></td>
     <td>
-      <h2> 💻 Backend Developer </h2>
-      <h2> 🎓 Economics Student </h2>
-      <h2> 🛠️ Passionate about scalable systems </h2>
-      <h2> 🤝 Peer in School 21 </h2>
+      <img width="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Profile Image" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+      <h2>💻 Backend Developer</h2>
+      <h2>🎓 Economics Student</h2>
+      <h2>🛠️ Passionate about scalable systems</h2>
+      <h2>🤝 Peer at School 21</h2>
+    </td>
+    <td style="padding-left: 40px; vertical-align: middle;">
+      <h2>🎧 Recently Played</h2>
+      <div align="center">
+        <a href="https://open.spotify.com/user/31mns3y67jq73bp3gyc77x4xvrji">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mns3y67jq73bp3gyc77x4xvrji&count=3" alt="Spotify recently played" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -59,15 +69,6 @@
 - 📫 How to reach me: [Telegram](https://t.me/aasaur) | [LinkedIn](https://www.linkedin.com/in/sultan-djavgashev-702b72256/) | [Email](mailto:sultandjavgashev@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to study economics but fell in love with programming during a side project!
-
----
-
-#### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sultaAann&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultaAann&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
