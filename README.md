@@ -36,6 +36,7 @@
 
 #### 🔍 A bit more about me...
 
+- 🤝 I’m a peer mentor at School 21, actively engaged in peer-to-peer project reviews and collaborative learning—helping others and being helped in turn
 - 🔭 I’m currently working on a RESTful microservice in Go with PostgreSQL and Docker
 - 🌱 I’m currently learning distributed systems, message queues, and Kubernetes
 - 👯 I’m looking to collaborate on open-source backend projects
@@ -44,26 +45,6 @@
 - 📫 How to reach me: [Telegram](https://t.me/aasaur) | [LinkedIn](https://www.linkedin.com/in/sultan-djavgashev-702b72256/) | [Email](mailto:sultandjavgashev@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to study economics but fell in love with programming during a side project!
-
----
-
-### 🎓 Education & Learning Journey
-
-#### 🏫 School 21 (by Sberbank)  Peer - profitjo
-- Free, peer-to-peer coding school—**no teachers, no lectures, no grades**, only collaborative hands-on projects 24/7
-- Started with an intensive **26‑day bootcamp** (22 projects) to qualify for the main program
-- Currently completing a **1.5–3‑year main curriculum** at my own pace, covering **C, Go, SQL, DevOps, algorithms** and more 
-- Performing a **3‑month internship** and working toward my **state-recognized diploma**
-- Located at the **Tashkent campus**, open 24/7 with collaborative zones, whiteboards, chill areas, and even games 
-- As one peer put it: *“each of us is both teacher and student.”* — reflecting the school’s collaborative ethos
-
-
-#### 🎓 MJC School (Java Education Initiative)
-
-- Free, online Java program built by EPAM engineers — focused on **discipline, craftsmanship, and community**  
-- Includes advanced **production-level mentoring** during Stage 4 of the course  
-- Covers Java fundamentals, backend and web service development — aimed at preparing for **Junior Software Engineer** positions  
-- Fully remote with **no entry barriers** — just basic programming skills needed  
 
 ---
 
