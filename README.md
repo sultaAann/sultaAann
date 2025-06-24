@@ -4,13 +4,33 @@
 
 ---
 
-#### 🚀 Tech Stack
+### 🚀 Tech Stack
 
-- **Languages:** Go (Golang), SQL, C, Java
-- **Frameworks/Libraries:** Gin, GORM
-- **Databases:** PostgreSQL, SQLite
-- **Tools:** Docker, Git, Linux, REST API
-- **Currently learning:** Kubernetes, Clean Architecture, System Design
+#### 🧑‍💻 Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🧰 Frameworks & Libraries
+![Gin](https://img.shields.io/badge/Gin-F00?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🛠️ Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-ff9800?style=for-the-badge&logo=json&logoColor=white)
+
+#### 🌱 Currently Learning
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C757D?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-6C757D?style=for-the-badge)
 
 ---
 
