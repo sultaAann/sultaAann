@@ -8,13 +8,13 @@
       <img width="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" alt="Profile Image" />
     </td>
     <td align="left" valign="middle">
-      <h3>💻 Backend Developer</h3>
-      <h3>🎓 Economics Student</h3>
-      <h3>🛠️ Passionate about scalable systems</h3>
-      <h3>🤝 Peer at School 21</h3>
+      <h4>💻 Backend Developer</h4>
+      <h4>🎓 Economics Student</h4>
+      <h4>🛠️ Passionate about scalable systems</h4>
+      <h4>🤝 Peer at School 21</h4>
     </td>
     <td align="center" valign="middle">
-      <h2>🎧 Recently Played</h2>
+      <h5>🎧 Recently Played</h5>
       <a href="https://open.spotify.com/user/31mns3y67jq73bp3gyc77x4xvrji">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mns3y67jq73bp3gyc77x4xvrji&count=3" alt="Spotify recently played" />
       </a>
