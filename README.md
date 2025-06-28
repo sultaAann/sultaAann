@@ -63,6 +63,7 @@
 #### 🔍 A bit more about me...
 
 - 🤝 I’m a peer mentor at School 21, actively engaged in peer-to-peer project reviews and collaborative learning—helping others and being helped in turn
+- 🧠 I actively solve algorithmic challenges on [LeetCode](https://leetcode.com/u/iViKPN7kZw/) to sharpen my problem-solving and coding skills
 - 🔭 I’m currently working on a RESTful microservice in Go with PostgreSQL and Docker
 - 🌱 I’m currently learning distributed systems, message queues, and Kubernetes
 - 👯 I’m looking to collaborate on open-source backend projects
