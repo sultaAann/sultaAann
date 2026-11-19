@@ -25,7 +25,7 @@ Outside work I explore new technologies and build my own products, pet projects 
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=go,java,spring,postgres,docker,kubernetes,linux,git,cs,dotnet,flutter,dart,ts,lua&perline=14)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=go,rust,java,spring,postgres,docker,kubernetes,linux,git,cs,dotnet,flutter,dart,ts,lua&perline=14)](https://skillicons.dev)
 
 ### Stats
 
