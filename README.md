@@ -4,7 +4,7 @@
 
 ### About
 
-Backend developer from Tashkent working in fintech. I build the server side of a network of self-service payment terminals that people use every day to pay for services, top up transit cards and get bank cards. I write mostly in Go and Java.
+Backend developer working in fintech. I build the server side of a network of self-service payment terminals that people use every day to pay for services, top up transit cards and get bank cards. I write mostly in Go and Java. 
 
 What I work on:
 - Payments end to end: from the terminal to the provider and back, with every payment completed exactly once
